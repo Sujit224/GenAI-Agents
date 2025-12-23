@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "807b30520de93d31",
+        "id": "508955321b4ffc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf4ed0aa1c8cd6a2",
+            "id": "82a88d8e1efad824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structured Output.md",
-                "mode": "preview",
+                "file": "RAG/03_Text Splitting.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structured Output"
+              "title": "03_Text Splitting"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "f98a4145818a722f",
@@ -194,13 +194,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf4ed0aa1c8cd6a2",
+  "active": "83f7465ef3300ac2",
   "lastOpenFiles": [
-    "Prompt Template.md",
-    "LangChain Intro.md",
-    "Output Parser.md",
+    "Langgraph/02_Conditional Edges.md",
+    "Langgraph/01_LangGraph Introduction.md",
+    "RAG/05_Langchain Agents.md",
+    "LangGraph_Introduction",
+    "Langgraph",
+    "LangChain/02_Prompt Template.md",
+    "RAG/04_Embeddings.md",
+    "RAG/01_Document Loaders.md",
+    "LangChain/04_Output Parser.md",
+    "LangChain/01_LangChain Intro.md",
+    "RAG/03_Text Splitting.md",
+    "RAG/02_Eager Load Vs Lazy Load.md",
+    "LangChain/03_Structured Output.md",
+    "LangChain/05_Chains.md",
     "Index.md",
-    "Structured Output.md",
+    "RAG",
+    "LangChain",
     "Excalidraw/Drawing 2025-12-09 12.35.22.excalidraw.md",
     "Excalidraw",
     "Welcome.md",

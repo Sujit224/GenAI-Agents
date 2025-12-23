@@ -52,7 +52,11 @@ result = chain_example.invoke({"language":"python","error":"Indentation(spacing)
 print(result.content)
 ```
 
+---
 ## Method 2
+
+> [!NOTE] Partial Variables
+> This method makes use of Partial Variables which will be discussed in detail under Output Parser.
 
 ```python
 from langchain_core.prompts import PromptTemplate
