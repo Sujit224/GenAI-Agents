@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "508955321b4ffc4d",
+        "id": "e6d83ce388f13099",
         "type": "tabs",
         "children": [
           {
-            "id": "82a88d8e1efad824",
+            "id": "240574630497825d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/03_Text Splitting.md",
+                "file": "NLP/3_NLP_Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Text Splitting"
+              "title": "3_NLP_Pipeline"
+            }
+          },
+          {
+            "id": "25bbda5f940f1a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langgraph/03_StateGraph Vs MessageGraph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_StateGraph Vs MessageGraph"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,28 +209,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "83f7465ef3300ac2",
+  "active": "25bbda5f940f1a9b",
   "lastOpenFiles": [
     "Langgraph/02_Conditional Edges.md",
+    "Langgraph/03_StateGraph Vs MessageGraph.md",
     "Langgraph/01_LangGraph Introduction.md",
+    "NLP/5_TextProcessing.md",
+    "Gen AI Roadmap.md",
+    "NLP/2_Tokenization in Spacy.md",
+    "NLP/3_NLP_Pipeline.md",
+    "NLP/4_Stop Words.md",
+    "NLP/1_RegEX in NLP.md",
+    "LangChain/05_Chains.md",
+    "LangChain/03_Structured Output.md",
+    "RAG/04_Embeddings.md",
+    "RAG/03_Text Splitting.md",
+    "RAG/01_Document Loaders.md",
+    "RAG/02_Eager Load Vs Lazy Load.md",
     "RAG/05_Langchain Agents.md",
+    "LangChain/04_Output Parser.md",
+    "LangChain/02_Prompt Template.md",
+    "LangChain/01_LangChain Intro.md",
+    "Images/Pasted image 20260311185121.png",
+    "NLP/README.md",
+    "NLP/Natural Language Processing with Transformers Building Language Applications with Hugging Face by Lewis Tunstall  Leandro von Werra  Thomas Wolf.pdf",
+    "Images/RegEx_Img1.png",
+    "Images/RegEx_Img5.png",
+    "Images/RegEx_Img4.png",
+    "Images/RegEx_Img3.png",
+    "Images/RegEx_Img2.png",
+    "Excalidraw/Drawing 2025-12-09 12.35.22.excalidraw.md",
+    "NLP/NLP_Images/Blank_Spacy_Object.png",
+    "NLP/NLP_Images",
+    "NLP/NLP_Images/NLP_Pipeline_flowdiagram.png",
+    "Pasted image 20260306160950.png",
+    "NLP/3_NLP_Pipeline.ipynb",
+    "Images",
+    "Pydantic/1_Why Pydantic.md",
+    "NLP",
+    "CrewAI/01_CrewAI Intro.md",
+    "Pydantic/3_FieldValidator.md",
+    "Pydantic/6_NestedModels.md",
+    "Pydantic/4_ModelValidator.md",
+    "Pydantic",
+    "CrewAI",
     "LangGraph_Introduction",
     "Langgraph",
-    "LangChain/02_Prompt Template.md",
-    "RAG/04_Embeddings.md",
-    "RAG/01_Document Loaders.md",
-    "LangChain/04_Output Parser.md",
-    "LangChain/01_LangChain Intro.md",
-    "RAG/03_Text Splitting.md",
-    "RAG/02_Eager Load Vs Lazy Load.md",
-    "LangChain/03_Structured Output.md",
-    "LangChain/05_Chains.md",
-    "Index.md",
-    "RAG",
-    "LangChain",
-    "Excalidraw/Drawing 2025-12-09 12.35.22.excalidraw.md",
-    "Excalidraw",
-    "Welcome.md",
-    "India.md"
+    "RAG"
   ]
 }

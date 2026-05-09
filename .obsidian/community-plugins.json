@@ -2,5 +2,7 @@
   "obsidian-excalidraw-plugin",
   "colored-text",
   "calendar",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "execute-code",
+  "jupymd"
 ]
